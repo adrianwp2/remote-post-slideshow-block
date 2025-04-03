@@ -21,7 +21,8 @@ A custom Gutenberg block that displays a slideshow of the latest posts from **an
 
 ## 🖼️ Screenshots
 
-Coming soon...
+![image](https://github.com/user-attachments/assets/eae0a172-4e49-4f0d-829e-fb5949c874a9)
+
 
 ## 🧪 Requirements
 
